@@ -13,12 +13,31 @@ A **React Native** Task Manager app . This app allows users to **add tasks**, **
 
 ---
 
-##  Screenshots  
-![Home Screen](./assets/ss1.png)  
-![Added Task](./assets/ss2.png)  
-![Wrapping Task](./assets/ss3.png)  
-![Completing Task](./assets/ss4.png)  
-![Deleting Task](./assets/ss1.png)  
+##  Screenshots   
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div>
+    <p>Home Screen</p>
+    <img src="./assets/ss1.png" alt="Home Screen" width="200"/>
+  </div>
+  <div>
+    <p>Added Task</p>
+    <img src="./assets/ss2.png" alt="Added Task" width="200"/>
+  </div>
+  <div>
+    <p>Wrapping Text</p>
+    <img src="./assets/ss3.png" alt="Wrapping Task" width="200"/>
+  </div>
+  <div>
+    <p>Completing Task and Progress Bar</p>
+    <img src="./assets/ss4.png" alt="Completing Task" width="200"/>
+  </div>
+  <div>
+    <p> Deleting Task</p>
+    <img src="./assets/ss5.png" alt="Deleting Task" width="200"/>
+  </div>
+</div>
+
 
 ---
 
