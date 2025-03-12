@@ -13,20 +13,20 @@ A **React Native** Task Manager app . This app allows users to **add tasks**, **
 
 ---
 ## Development Process
-Step 1: Setting Up the App
+Step 1: Setting Up the App:
 I started by setting up the project using Expo, which provided a smooth and quick environment for developing the React Native application.
 
-Step 2: UI Planning with Canva
+Step 2: UI Planning with Canva:
 Before diving into the actual UI development, I used Canva to create a rough layout of how I wanted the app to look. This helped in visualizing the user interface and ensuring a clean and intuitive design.
 
-Step 3: Building the UI
+Step 3: Building the UI:
 Once the plan was ready, I moved on to developing the UI using React Native components. The primary goal was to keep the interface simple, user-friendly, and responsive.
 
-Step 4: Adding Functionality
+Step 4: Adding Functionality:
 Implemented state management using React's useState to handle task data.
 Added features to add, complete, and delete tasks.
 
-Step 5: Enhancing with a Progress Bar
+Step 5: Enhancing with a Progress Bar:
 At the end of the development process, I thought including a progress bar would be a great addition to visualize task completion. I implemented this using the react-native-progress library.
 
 ---
